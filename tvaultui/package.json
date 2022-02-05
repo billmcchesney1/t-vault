@@ -25,7 +25,7 @@
     "gulp-eslint": "~1.0.0",
     "gulp-filter": "~3.0.1",
     "gulp-flatten": "~0.2.0",
-    "gulp-htmlhint": "^0.3.0",
+    "gulp-htmlhint": "^4.0.0",
     "gulp-htmllint": "0.0.6",
     "gulp-inject": "~3.0.0",
     "gulp-jscs": "^3.0.2",
